@@ -66,7 +66,7 @@ public class Main extends Application {
 
         // ----- Scene ----- //
         Scene scene = new Scene(layout, 350, 200);
-        stage.setTitle("Simple JavaFX GUI - Blake Guinn");
+        stage.setTitle("CSE360_A1_BlakeGuinn");
         stage.setScene(scene);
         stage.show();
     }
